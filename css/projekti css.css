@@ -1,0 +1,28 @@
+html, body{ background-color: orange;}
+
+.backColor { background-color: black!important;}
+
+.navbar-brand img{
+    width: 100px;
+    height: 60px;
+    object-fit: cover;}
+
+.nav-item a{
+color: orange!important;}
+
+#carouselExampleCaptions {
+    margin-top: 90px;
+    padding: 50px;
+    background-image: url("images/party.gif");
+}
+
+#pMbuton{ color: orange;
+background-color: black;
+text-align: center;
+cursor: pointer;
+border-radius: 10px;
+border-color: orange;
+}
+
+#pMbuton:hover{ color: black;
+background-color: orange;}
